@@ -192,14 +192,15 @@ footer span {
 	border-bottom: none;
 	padding: 0 30px;
 }
-}
+
 .section-three {
 	width: 26%;
+}
 }
 
 @media all and (min-width: 1200px) {
     /* Desktop styles here */
-}
+
 body {
 	font-size: 1em;
 }
@@ -224,4 +225,5 @@ header nav {
 header nav ul {
 	display: flex;
 	justify-content: space-between;
+}
 }
